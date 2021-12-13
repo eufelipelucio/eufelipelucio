@@ -1,5 +1,13 @@
-## Olá, Eu sou Felipe Lúcio !! Estudante de fron-end🤞😉
+## 
+
 <div >
+ <img align="center" alt="Rafa-pic" height="50" style="border-radius: 20px" src="https://mstdn.social/system/media_attachments/files/003/546/066/original/1c66bb4bcbfa1cad.jpg">
+Olá, Eu sou Felipe Lúcio !! Estudante de fron-end🤞😉
+</div>
+
+##
+
+  <div align="left">
   <a href="https://github.com/eufelipelucio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eufelipelucio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipelucio&layout=compact&langs_count=7&theme=merko"/>
@@ -15,7 +23,7 @@
     <span font-size='15px' font-weight='bold' font-family='Roboto' text-decoration:'none' >Estudando:</span>
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mstdn.social/system/media_attachments/files/003/546/066/original/1c66bb4bcbfa1cad.jpg">
+   
 </div>
   
   ## 
