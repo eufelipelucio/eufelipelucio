@@ -9,7 +9,7 @@
 <div>
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eufelipelucio&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipelucio&layout=compact&langs_count=7&theme=blue-green"/>
-   <img align="right" src="https://share-cdn.picrew.me/shareImg/org/202112/284700_AplUH95X.png" height="100px">
+   <img align="left" src="https://share-cdn.picrew.me/shareImg/org/202112/284700_AplUH95X.png" height="100px">
 </div>
 <a (https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipelucio&layout=compact)](https://github.com/eufelipelucio/github-readme-stats)
 
