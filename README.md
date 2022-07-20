@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/felipe-l%C3%BAcio-3802751bb/">Felipe Lúcio</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Felipe Lúcio | 💻 Front-end React Developer | 🛸 Sc , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Felipe Lúcio | 💻 Front-end Developer | 🛸 Sc , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
   
   ##
@@ -22,7 +22,6 @@
    
 <div align="center"> 
     <a href="https://www.youtube.com/channel/UC9y83WkQiEZqZbQPK-tUmmA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/eufelipelucio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-254547?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:felipesou94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/eufelipelucio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
