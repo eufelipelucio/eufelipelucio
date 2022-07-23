@@ -9,7 +9,8 @@
   
 <div align="center">
     <a href="https://github.com/eufelipelucio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eufelipelucio&show_icons=true&theme=gree-blue&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eufelipelucio&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipelucio&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="eufelipelucio stats"/>
 </div>
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="LIpe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
