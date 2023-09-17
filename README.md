@@ -2,14 +2,13 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/felipe-l%C3%BAcio-3802751bb/">Felipe Lúcio</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Felipe Lúcio | 💻 Front-end Developer | 🛸 Sc , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Felipe Lúcio | 💻 Full-Stack Developer | 🛸 Sc , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
   
   ##
   
 <div align="center">
     <a href="https://github.com/eufelipelucio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eufelipelucio&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipelucio&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="eufelipelucio stats"/>
 </div>
 <div style="display: inline_block" align="center"><br>
