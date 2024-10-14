@@ -5,9 +5,9 @@
 
 - 👩‍💻 Desenvolvedor Full Stack
 - 🏆 Formado no Programa Entra21 - Turma Java
+- 🏆 Formado em Desenvolvimento de Software com foco em Back End @ Cubos Academy
 - 🎥 Apaixonado por programação e determinado a me destacar na área da tecnologia. Busco constantemente aprimorar meus conhecimentos e contribuir para projetos desafiadores.
 - 🎓 Estudante Engenharia de Software @ UNIFATECIE 
-- 🎓 Estudante Desenvolvimento de Software com foco em Back End @ Cubos Academy
 - 💡 Um desafio é uma oportunidade de você buscar seu melhor.
 
 ## Hard Skills
