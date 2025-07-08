@@ -5,7 +5,7 @@
 
 - 👩‍💻 Desenvolvedor Full Stack
 - 🏆 Formado no Programa Entra21 - Turma Java
-- 🏆 Formado em Desenvolvimento de Software com foco em Back End @ Cubos Academy
+- 🏆 Formado em Desenvolvimento de Software com foco em Back End @Cubos Academy
 - 🎥 Apaixonado por programação e determinado a me destacar na área da tecnologia. Busco constantemente aprimorar meus conhecimentos e contribuir para projetos desafiadores.
 - 🎓 Estudante Engenharia de Software @ UNIFATECIE 
 - 💡 Um desafio é uma oportunidade de você buscar seu melhor.
@@ -14,6 +14,7 @@
 
 <div style="display: inline_block" align="left"><br>
     <img align="center" alt="LIpe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="LIpe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" alt="Lipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
